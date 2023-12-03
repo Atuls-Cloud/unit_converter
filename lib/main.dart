@@ -84,7 +84,7 @@ class HomeScreenState extends State<HomeScreen> {
         color: const Color(0xff1F253B).withOpacity(0.2),
         child: Padding(
           padding:
-              const EdgeInsets.only(left: 20, right: 20, top: 20, bottom: 400),
+              const EdgeInsets.only(left: 20, right: 20, top: 20, bottom: 350),
           child: Column(
             children: [
               SizedBox(
